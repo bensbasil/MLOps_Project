@@ -8,7 +8,7 @@ __pycache__/
 .Python
 
 # Virtual Environments
-.artifacts
+.artifacts/
 venv/
 .venv/
 env/
